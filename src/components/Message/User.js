@@ -7,13 +7,13 @@ class User extends Component {
                     <div className="nim-dialog ">
                         <div className="nim-dialog--photo ">
                             <div className="nim-peer--photo-w">
-                                <img src={require('../../logo192.png')} alt="" width="50" height="50"/>
+                            <img src={require('../../logo192.png')} alt="" width="50" height="50"/>
                             </div>
                         </div>
                         <div className="nim-dialog--content">
                             <div className="nim-dialog--cw">
                                 <div className="nim-dialog--date ">
-                                    00:00
+                                    20:07
                                 </div>
                                 <div className="nim-dialog--name">
                                     <span className="nim-dialog--name-w">User1</span>
@@ -22,7 +22,7 @@ class User extends Component {
                                     <span className="">Message text</span>
                                 </div>
                                 <div className="blind_label">
-                                    1 new message
+                                    1 новое сообщение
                                 </div>
                                 <div className="unread nim-dialog--unread">
                                     1
